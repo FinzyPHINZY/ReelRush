@@ -2,6 +2,16 @@
 
 Welcome to **ReelRush**, a dynamic and engaging short-video platform similar to TikTok. This README provides an overview of the project, instructions for installation, usage, and guidelines for contributing.
 
+## Backend
+
+The Backend of the ReelRush application is deployed on Render and can be found in the following repository:
+
+[ReelRush Backend Repository](https://github.com/FinzyPHINZY/ReelRush-Backend)
+
+You can also access the live demo of the ReelRush frontend here:
+
+[Live Demo](https://reel-rush.onrender.com/api/posts)
+
 ## Table of Contents
 
 - [Features](#features)
